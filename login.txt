@@ -1,0 +1,17 @@
+El sisetama incluye
+Incluye:
+✅Login con roles
+✅Registro de Citas
+✅Registro de Pacientes
+✅Registro de Médicos
+✅Registro de áreas médicas
+✅Consulta de Citas
+
+----ADMINISTRADOR-----
+USUARIO brenda_gomez 
+CONTRASEÑA bbgl2311
+---------------------
+
+------PACIENTES-----
+USUARIO erika_24 
+CONTRASEÑA 12345
